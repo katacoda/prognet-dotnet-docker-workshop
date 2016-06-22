@@ -4,7 +4,17 @@ Katacoda Course: https://www.katacoda.com/courses/dotnet-in-docker/
 
 Katacoda is an interactive learning platform for software developers hosting pre-build environments and labs. The Katacoda course on "Running DotNet on Docker" provides you with an Docker environment with the required images and sample source code.
 
-## Running Locally
+If you'd prefer not to use the free Docker environment in your browser with Katacoda then it's recommended to use Digital Ocean or Docker Toolbox
+
+## Digital Ocean Droplet
+
+$10 Digital Ocean Credit via https://m.do.co/c/dd50443ebb28
+
+Launch Ubuntu with Docker, no need for Windows in this workshop.
+
+Please remember to stop the droplet at the end of the workshop.
+
+## Running Locally with Docker Toolbox
 
 If you prefer to run the workshop locally, install Docker from https://www.docker.com/getdocker
 
