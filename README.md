@@ -41,4 +41,5 @@ git clone https://github.com/katacoda/dotnet-aspnet-core-example
 git clone https://github.com/katacoda/dotnet-fsharp-example
 git clone https://github.com/katacoda/dotnet-scriptcs-example
 git clone https://github.com/katacoda/nodejs-express-example
+git clone https://github.com/katacoda/redis-node-docker
 ```
