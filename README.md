@@ -1,6 +1,8 @@
 # Katacoda - Running .NET inside Docker workshop
 
-Katacoda Course: https://www.katacoda.com/courses/dotnet-in-docker/
+Workshop Scenarios: https://www.katacoda.com/ocelotuproar/workshops/prognet2016/
+
+Katacoda DotNet In Docker Scenarios: https://www.katacoda.com/courses/dotnet-in-docker/
 
 Katacoda is an interactive learning platform for software developers hosting pre-build environments and labs. The Katacoda course on "Running DotNet on Docker" provides you with an Docker environment with the required images and sample source code.
 
